@@ -37,11 +37,10 @@ I’m **Brayan de Jesus**, but everyone knows me as **Jesus** — a **mobile dev
 
 <br>
 <br>
+<div align="Center">
 
-| Snake Eating Contributions in the last year |
-| ------------------------------------------|
-| ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
-
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a2kyOHZjeDh6M2VwOTVkcWZwMjdrOTc4YzR4NnV6b3MwcHlwNmZtZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VrtvDMP4ajo5y/giphy.gif" />
+</a>
 
 </div>
 <br>
