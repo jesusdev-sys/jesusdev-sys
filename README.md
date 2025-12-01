@@ -7,11 +7,13 @@
 </a>
 
 </div>
+<br>
 
+<p align="center">
+🌱 Currently diving into <b>mobile development</b>, with hands-on experience in <b>pentesting</b>,<br>
+and learning <b>Dart/Flutter</b> along the way.
+</p>
 
-🌱 Currently diving into **mobile development**, with hands-on experience in **pentesting**, and learning **Dart/Flutter** along the way.
-
-I’m **Brayan de Jesus**, but everyone knows me as **Jesus** — a **mobile dev learner with pentesting experience**, Linux enjoyer, and someone who loves dark aesthetics, Hyprland setups, and anything hacking-related.
 
 <div align="Center">
 <h1>Skills</h1>
@@ -24,9 +26,13 @@ I’m **Brayan de Jesus**, but everyone knows me as **Jesus** — a **mobile dev
 | <img src="https://skillicons.dev/icons?i=html,css,astro,js"/> | <img src="https://skillicons.dev/icons?i=bash,python,dart,flutter,java"/> | <img src="https://skillicons.dev/icons?i=vim,vscode,sublime,androidstudio"/> |
 
 </div>
+<p align="center">
+👤 I’m <b>Brayan de Jesus</b>, but everyone knows me as <b>Jesus</b> 
+  — a <b>mobile dev learner with pentesting experience</b>,<br>
+🐧 Linux enjoyer, and someone who loves dark aesthetics, Hyprland setups, and anything hacking-related.
+</p>
 
-🌱 My journey into **Linux** started out of curiosity, but it quickly became a lifestyle — from distrohopping to mastering **Arch**, tweaking **Hyprland**, and building the perfect setup from scratch. I’ll be uploading documented **apps** and my **portfolio** soon… stay tuned. 
-
+<br>
 
 <div align="Center">
 <h1>Operating Systems</h1>
@@ -34,8 +40,14 @@ I’m **Brayan de Jesus**, but everyone knows me as **Jesus** — a **mobile dev
 <img src="https://skillicons.dev/icons?i=linux,arch,linux,debian,ubuntu,kali"/>
 
 </div>
-
 <br>
+<p align="center">
+🌱 My journey into <b>Linux</b> started out of curiosity, but it quickly became a <br>
+lifestyle — from distrohopping to mastering <b>Arch</b>, tweaking <b>Hyprland</b>, and <br>
+building the perfect setup from scratch. 
+ I’ll be uploading documented <b>apps</b> and my <b>portfolio</b> soon… stay tuned.
+</p>
+
 <br>
 <div align="Center">
 
@@ -44,8 +56,13 @@ I’m **Brayan de Jesus**, but everyone knows me as **Jesus** — a **mobile dev
 
 </div>
 <br>
+<br>
+<p align="center">
+<b>🌱 Follow Me on instagram!!</b>
+<br>
 
 <div align="Center">
+<h1></h1>
 
 |‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
 | ----------|
