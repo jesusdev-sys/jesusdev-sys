@@ -44,8 +44,6 @@ I’m **Brayan de Jesus**, but everyone knows me as **Jesus** — a **mobile dev
 
 
 </div>
-
-<br>
 <br>
 
 <div align="Center">
