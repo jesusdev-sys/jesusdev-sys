@@ -3,7 +3,7 @@
 
 <div align="Center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtqN2c5OXc2Y2lqdnd1bTM0YmFyMDhjMWdxbzRweW03NHA2bTgwdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yxgAo7fEA8Ip2/giphy.gif" />
+<img src="https://i.pinimg.com/1200x/df/f0/a5/dff0a53f1c47cb455ce1da8091b93b7a.jpg" />
 </a>
 
 </div>
@@ -13,11 +13,13 @@
 import MobileDeveloper from 'brayandejesus';
 
 class Bio extends MobileDeveloper {
-  name     = 'Brayan De Jesus';
-  title    = 'Mobile Developer | Pentester';
+  name      = 'Brayan De Jesús';
+  title     = 'Mobile Developer | Pentester';
+  age       = 19;
+  languages = ['English', 'Spanish'];
 }
-export default Bio;
 
+export default Bio;
 ```
 
 <p align="center">
@@ -60,17 +62,14 @@ building the perfect setup from scratch.
 </p>
 <br>
 </div>
-<br>
-<br>
-<p align="center">
-<b>🌱 Follow Me on instagram!!</b>
-<br>
 
 <div align="Center">
-<h1></h1>
+
+<img src="https://i.pinimg.com/736x/bf/07/cf/bf07cf8079b3de06f1936a9d7a2dacdd.jpg" />
+</a>
+<div align="Center">
+<h1>🌱 Follow Me on instagram!!</h1>
 
 |‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
 | ----------|
 | <a href="mailto:briansalcedo477@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://instagram.com/jesusgoodman_"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎
-
-<a href="https://drive.google.com/uc?export=download&id=15B9sVQpIXlQ2JeYOm9V5SNiLHiInW9tU" target="_blank" rel="download org image">![alt README header](https://github.com/zmcx16/zmcx16/blob/master/images/kanban1-demo.jpg?raw=true)</a>
