@@ -56,9 +56,7 @@ learning <b>Dart/Flutter</b> along the way.<br><br>
 <br>
 <p align="center">
 🌱 My journey into <b>Linux</b> started out of curiosity, but it quickly became a <br>
-lifestyle — from distrohopping to mastering <b>Arch</b>, tweaking <b>Hyprland</b>, and <br>
-building the perfect setup from scratch. 
- I’ll be uploading documented <b>apps</b> and my <b>portfolio</b> soon… stay tuned.
+lifestyle. I’ll be uploading documented <b>apps</b> and my <b>portfolio</b> soon… stay tuned.
 </p>
 <br>
 </div>
