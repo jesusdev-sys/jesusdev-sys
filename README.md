@@ -1,37 +1,25 @@
+<h1 align="center">Hi 👋, I'm JesusDev</h1>
 
-<h1 align="center">👋 Hey, what’s up? I’m Jesus.</h1>
 
-<div align="center">
-  <img 
-    src="https://i.pinimg.com/1200x/df/f0/a5/dff0a53f1c47cb455ce1da8091b93b7a.jpg" 
-    width="700"
-  />
-</div>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="JPG" src="https://i.pinimg.com/736x/77/af/65/77af655fdb3768254f693622f102e481.jpg">
+</a>
+{  
+
+* 👂 `My name is`: **Brayan De Jesus (Jesus)**,
+* 👨 `Pronouns`: **He/Him**,
+* ⚡ `I'm`: **19 years old**,
+* 🌱 `I’m currently learning`: **Dart/Flutter, Java**,
+* 💻 `Favorite langs`: **Kotlin, Rust**,
+* 🔥 `Stack`: **Mobile Dev (Flutter), Pentesting**,
+* 🚀 `Hobbies`: **Learning Languages, Reading Books, Watching TV Shows**,  
+
+}
+
 
 
 </div>
 <br>
-
-```js
-import MobileDeveloper from 'brayandejesus';
-
-class Bio extends MobileDeveloper {
-  name      = 'Brayan De Jesús';
-  title     = 'Mobile Developer | Pentester';
-  age       = 19;
-  languages = ['English', 'Spanish'];
-}
-
-export default Bio;
-```
-
-<p align="center">
-🌱 Currently diving into <b>mobile development</b>, with hands-on experience in <b>pentesting</b>,<br>
-learning <b>Dart/Flutter</b> along the way.<br><br>
-🖥️ Passionate about <b>Linux</b>, 📚 <b>reading</b>, 🎬 <b>series</b>, and constantly <b>learning new things</b>.
-</p>
-
-
 
 <div align="Center">
 <h1>Skills</h1>
@@ -61,12 +49,16 @@ learning <b>Dart/Flutter</b> along the way.<br><br>
 🌱 My journey into <b>Linux</b> started out of curiosity, but it quickly became a <br>
 lifestyle. I’ll be uploading documented <b>apps</b> and my <b>portfolio</b> soon… stay tuned.
 </p>
-<br>
+</div>
+<h1></h1>
+
+<div align="center">
+  <img 
+    src="https://i.pinimg.com/1200x/dc/fd/cf/dcfdcf67e6272d5a77e65955659d3ead.jpg" 
+    width="600"
+  />
 </div>
 
-<div align="Center">
-
-<img src="https://i.pinimg.com/736x/bf/07/cf/bf07cf8079b3de06f1936a9d7a2dacdd.jpg" />
 </a>
 <div align="Center">
 <h1>🌱 Follow Me on instagram!!</h1>
