@@ -1,10 +1,13 @@
 
 <h1 align="center">👋 Hey, what’s up? I’m Jesus.</h1>
 
-<div align="Center">
+<div align="center">
+  <img 
+    src="https://i.pinimg.com/1200x/df/f0/a5/dff0a53f1c47cb455ce1da8091b93b7a.jpg" 
+    width="700"
+  />
+</div>
 
-<img src="https://i.pinimg.com/1200x/df/f0/a5/dff0a53f1c47cb455ce1da8091b93b7a.jpg" />
-</a>
 
 </div>
 <br>
