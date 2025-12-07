@@ -2,7 +2,7 @@
 
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="JPG" src="https://i.pinimg.com/736x/77/af/65/77af655fdb3768254f693622f102e481.jpg">
+  <img align="right" top="500" height="300" width="400" alt="JPG" src="https://i.pinimg.com/1200x/ee/ca/e1/eecae102ae4cce6106b97f2c56ed3070.jpg">
 </a>
 {  
 
@@ -10,7 +10,6 @@
 * 👨 `Pronouns`: **He/Him**,
 * ⚡ `I'm`: **19 years old**,
 * 🌱 `I’m currently learning`: **Dart/Flutter, Java**,
-* 💻 `Favorite langs`: **Kotlin, Rust**,
 * 🔥 `Stack`: **Mobile Dev (Flutter), Pentesting**,
 * 🚀 `Hobbies`: **Learning Languages, Reading Books, Watching TV Shows**,  
 
